@@ -1,22 +1,22 @@
 # 0x11. C - printf
 
-Background Context
+## Background Context
     * Write your own printf function.
 
-Resources
+## Resources
 
-Read or watch:
+## Read or watch:
 
     * Secrets of printf
     * Group Projects concept page (Don’t forget to read this)
     * Flowcharts concept page
 
-man or help:
+## man or help:
 
     printf (3)
 
-Requirements
-General
+## Requirements
+## General
 
     * Allowed editors: vi, vim, emacs
     * All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -31,20 +31,20 @@ General
     * All your header files should be include guarded
     * Note that we will not provide the _putchar function for this project
 
-GitHub
+## GitHub
 
     There should be one project repository per group. The other members do not fork or clone the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%
 
-More Info
-Authorized functions and macros
+## More Info
+## Authorized functions and macros
 
-    write (man 2 write)
-    malloc (man 3 malloc)
-    free (man 3 free)
-    va_start (man 3 va_start)
-    va_end (man 3 va_end)
-    va_copy (man 3 va_copy)
-    va_arg (man 3 va_arg)
+    * write (man 2 write)
+    * malloc (man 3 malloc)
+    * free (man 3 free)
+    * va_start (man 3 va_start)
+    * va_end (man 3 va_end)
+    * va_copy (man 3 va_copy)
+    * va_arg (man 3 va_arg)
 
 Compilation
 
